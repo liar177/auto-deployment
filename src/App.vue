@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div style="font-size:26px">手动部署流程显示</div>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
