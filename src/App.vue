@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div>hello world</div>
+    <div class="discre">(憨憨才会进入这个页面，嘻嘻)</div>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
@@ -25,5 +25,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.discre{
+  color: #1d6cbb;
+  font-size: 26px;
 }
 </style>
