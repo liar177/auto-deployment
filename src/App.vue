@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="discre">(憨憨才会进入这个页面，嘻嘻)</div>
+    <div class="discre">自动化部署流程展示</div>
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
