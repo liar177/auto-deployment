@@ -103,15 +103,18 @@ export default {
             }
             console.log(that.status)
             that.onenetApi.getDataStreams(710549685).done(function (data) {
-                
+                console.log(data)
               for(var i=0;i<data.data.length;i++){
-                if(data.data.findIndex(item=>item.current_value != that.data[i].current_value) == -1 ){
+                var index = data.data.findIndex(item=>item.id == that.data[i].id)
+                if(data.data[index].current_value != that.data[i].current_value){
+                  console.log("1")
                     that.data = [];
                     that.data.push(...data.data);
                     that.status = true
                     break;
                     
                 }else{
+                  console.log("2")
                   that.status = false
                 }
               }
