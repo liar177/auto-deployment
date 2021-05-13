@@ -1,0 +1,93 @@
+{
+  "id": "2541699",
+  "name": "autodeployer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5642865",
+      "name": "灯光",
+      "font_class": "dengguang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "11536337",
+      "name": "电机转速",
+      "font_class": "dianjizhuansu",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "3786913",
+      "name": "距离传感器",
+      "font_class": "yanjizhushou-shangchuan_julichuanganqi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "8802630",
+      "name": "所有人员",
+      "font_class": "suoyourenyuan",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "11464310",
+      "name": "光照",
+      "font_class": "guangzhao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13672648",
+      "name": "烟雾报警",
+      "font_class": "yanwubaojing",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "13805010",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "1066849",
+      "name": "数据",
+      "font_class": "data",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1185455",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8952953",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "11079325",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "16322479",
+      "name": "数据",
+      "font_class": "shuju1",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    }
+  ]
+}
